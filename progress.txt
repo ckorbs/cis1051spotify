@@ -1,0 +1,43 @@
+# Status Report
+
+#### Your name
+
+Clare Korbisch
+
+TODO
+
+#### Your section leader's name
+
+Rahad Arman Nabid
+
+TODO
+
+#### Project title
+
+cis1051spotify
+
+TODO
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I created multiple accounts on different platforms that I need access to such as Spotify for developers to gain access to the AI and Sendgrid as a platform to email my results to the user. I created an app within Spotify for developers and extracted data from my discover weekly playlist. Doing this will end up giving me results based on this playlsit, if I wanted to use a different one, I could. 
+
+TODO
+
+#### What have you not done for your project yet?
+
+Converting the data to a digestable platform and have not set up the email platform to send results
+
+
+TODO
+
+#### What problems, if any, have you encountered?
+
+none yet but we shall see
+
+
+TODO

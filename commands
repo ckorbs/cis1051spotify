@@ -1,0 +1,5 @@
+#sender_address = "clarekorbs@gmail.com"
+#sendgrid_api_key = "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"
+#SPOTIPY_CLIENT_ID = '3ac1b199205442c58e6f3ec71c505aba'
+#SPOTIPY_CLIENT_SECRET = '8c619b45f9a34623911712f15a1acb52'
+#SPOTIPY_REDIRECT_URI = 'http://localhost/'
